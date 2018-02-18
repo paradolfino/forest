@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "f94da22d-0008-4e63-8380-734517198787",
+            "Value": {
+                "id": "9f1d7255-a48e-4965-bd72-ebf579a2cc39",
+                "resourcePath": "objects\\o_solid\\o_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fa6fcda2-2de3-4dc3-9945-9cbf7d074058",
             "Value": {
                 "id": "e61d9a0c-3d0d-4593-b8b8-0101b630a36e",
