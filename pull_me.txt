@@ -1,0 +1,9 @@
+
+### pool[serene-jumping-mountains-qj534w]:
+* import sprites for right - down - up
+* import placeholder solid sprite
+* place dummy objects in room
+* implement 8 directional movement for play object
+* add manual rectangle collision for player down sprite
+* change origin of player sprites to bottom centre
+
