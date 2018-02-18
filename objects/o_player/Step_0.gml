@@ -1,9 +1,15 @@
 if (keyboard_check(vk_right)) {
 	x += 4;
-} 
+}
+
+if (keyboard_check(vk_right) && keyboard_check(vk_up)) {
+	x += 4;
+	y -= 4;
+}
+
 if (keyboard_check(vk_left)) {
 	x -= 4;
-} 
+}
 if (keyboard_check(vk_up)) {
 	y -= 4;
 } 
