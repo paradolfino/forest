@@ -1,5 +1,5 @@
-if keyboard_check(vk_right) {
+if (keyboard_check(vk_right)) {
 	x += 4;
-} else {
+} else if (keyboard_check(vk_left)) {
 	x -= 4;
 }
