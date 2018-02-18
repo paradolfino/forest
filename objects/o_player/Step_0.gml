@@ -1,4 +1,4 @@
-if (keyboard_check(vk_right)) {
+if (keyboard_check(vk_right) && place_meeting(x+4, y) {
 	x += 4;
 }
 
