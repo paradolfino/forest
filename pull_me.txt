@@ -1,1 +1,6 @@
 
+### pool[peaceful-rolling-hills-7212v7]:
+* implement changing of sprite based on key press
+* add left facing animation
+* practice variable types
+
