@@ -1,4 +1,4 @@
-var dist = 4;
+var dist = 2;
 var anim_speed = 0.6;
 image_speed = 0;
 if (keyboard_check(vk_right) && !place_meeting(x+dist, y, o_solid)) {
