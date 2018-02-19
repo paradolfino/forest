@@ -1,5 +1,6 @@
 
 image_speed = 0;
+var _speed = 0.6;
 if (keyboard_check(vk_right) && !place_meeting(x+dist_, y, o_solid)) {
 	x += dist_;
 	sprite_index = s_player_run_right;
