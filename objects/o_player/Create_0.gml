@@ -1,3 +1,3 @@
 image_speed = 0;
-var dist_ = 2;
-var speed_ = 0.6;
+dist_ = 2;
+speed_ = 0.6;
