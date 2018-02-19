@@ -1,5 +1,4 @@
-var dist_ = 2;
-var speed_ = 0.6;
+
 image_speed = 0;
 if (keyboard_check(vk_right) && !place_meeting(x+dist_, y, o_solid)) {
 	x += dist_;
