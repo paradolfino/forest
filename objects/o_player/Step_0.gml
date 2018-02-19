@@ -16,5 +16,7 @@ if (keyboard_check(vk_up) && !place_meeting(x, y-dist, o_solid)) {
 	image_speed = anim_speed;
 } 
 if (keyboard_check(vk_down) && !place_meeting(x, y+dist, o_solid)) {
-	y += dist;	
+	y += dist;
+	sprite_index = s_player_run_down;
+	image_speed = anim_speed;
 }
