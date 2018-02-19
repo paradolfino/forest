@@ -1,5 +1,6 @@
 if (keyboard_check(vk_right) && !place_meeting(x+4, y, o_solid)) {
 	x += 4;
+	sprite_index = s_player_run_right;
 }
 
 if (keyboard_check(vk_left) && !place_meeting(x-4, y, o_solid)) {
