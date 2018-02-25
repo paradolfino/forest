@@ -4,6 +4,7 @@ image_speed = 0;
 var _speed = 0.6; //instance var animation speed
 var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
 var _y_input = keyboard_check(vk_down) - keyboard_check(vk_up);
+direction_ = point_direction();
 
 if (_x_input != 0 && !place_meeting(x+dist_ * _x_input, y, o_solid)) {
 	x += dist_ * _x_input;
