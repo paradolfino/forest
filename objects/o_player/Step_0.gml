@@ -24,3 +24,5 @@ if (keyboard_check(vk_down) && !place_meeting(x, y+dist_, o_solid)) {
 	sprite_index = s_player_run_down;
 	image_speed = _speed;
 }
+
+sprite_index = sprite_[player.move, _direction];
