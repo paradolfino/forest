@@ -1,1 +1,9 @@
 
+[practice arrays, work on sprite table, work on simplifying movement code]
+### 24/02/2018[18:00 - 18:43]:
+* practice arrays
+* work with 2D arrays
+* work with enums
+* work on sprite lookup table for character
+* work on axis input and simplify movement code
+
