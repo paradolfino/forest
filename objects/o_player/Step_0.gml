@@ -2,7 +2,7 @@
 
 image_speed = 0;
 var _speed = 0.6; //instance var animation speed
-var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left)
+var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
 
 if (keyboard_check(vk_right) && !place_meeting(x+dist_, y, o_solid)) {
 	x += dist_;
