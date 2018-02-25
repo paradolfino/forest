@@ -15,6 +15,13 @@ enum player {
 	move
 }
 
+enum dir {
+	right,
+	up,
+	left,
+	down
+}
+
 //inventory_[item.sword] = "sword";
 //inventory_[item.potion] = "potion";
 //inventory_[item.spell] = "spell";
