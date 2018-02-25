@@ -7,7 +7,7 @@ var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
 if (_x_input != 0 && !place_meeting(x+dist_ * _x_input, y, o_solid)) {
 	x += dist_ * _x_input;
 	image_speed = _speed;
-	image_xscale = 1;
+	image_xscale = _x_input;
 }
 
 if (keyboard_check(vk_up) && !place_meeting(x, y-dist_, o_solid)) {
