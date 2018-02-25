@@ -28,6 +28,7 @@ enum dir {
 	down
 }
 
+sprite_[player.move, dir.right];
 
 
 
