@@ -4,12 +4,12 @@ dist_ = 2; //instance var
 
 global.player_health = 4; //global var
 
-enum item {
-	sword,
-	potion,
-	spell,
-	note
-}
+//enum item {
+//	sword,
+//	potion,
+//	spell,
+//	note
+//}
 
 enum player {
 	move
