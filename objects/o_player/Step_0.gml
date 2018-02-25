@@ -5,7 +5,7 @@ var _speed = 0.6; //instance var animation speed
 var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
 
 if (_x_input != 0 && !place_meeting(x+dist_ * _x_input, y, o_solid)) {
-	x += dist_;
+	x += dist_ * _x_input;
 	direction_facing_ = dir.right;
 	image_speed = _speed;
 	image_xscale = 1;
