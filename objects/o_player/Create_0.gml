@@ -28,7 +28,7 @@ enum dir {
 	down
 }
 
-sprite_[player.move, dir.right];
+sprite_[player.move, dir.right] = s_player_run_right;
 
 
 
