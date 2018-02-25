@@ -11,6 +11,10 @@ enum item {
 	note
 }
 
+enum player {
+	move
+}
+
 //inventory_[item.sword] = "sword";
 //inventory_[item.potion] = "potion";
 //inventory_[item.spell] = "spell";
