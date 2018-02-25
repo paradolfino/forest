@@ -11,12 +11,6 @@ if (_x_input != 0 && !place_meeting(x+dist_ * _x_input, y, o_solid)) {
 	image_xscale = 1;
 }
 
-if (keyboard_check(vk_left) && !place_meeting(x-dist_, y, o_solid)) {
-	x -= dist_;
-	direction_facing_ = dir.left;
-	image_speed = _speed;
-	image_xscale = -1;
-}
 if (keyboard_check(vk_up) && !place_meeting(x, y-dist_, o_solid)) {
 	y -= dist_;
 	direction_facing_ = dir.up;
