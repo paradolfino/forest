@@ -1,2 +1,3 @@
 17/02/2018 18:58:pool[serene-jumping-mountains-qj534w]: import sprites for right - down - up, import placeholder solid sprite, place dummy objects in room, implement 8 directional movement for play object, add manual rectangle collision for player down sprite, change origin of player sprites to bottom centre
 18/02/2018 20:59:pool[peaceful-rolling-hills-7212v7]: implement changing of sprite based on key press, add left facing animation, practice variable types
+18:00 - 18:08:pool[practice arrays]
