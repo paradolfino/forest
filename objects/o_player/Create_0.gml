@@ -11,10 +11,10 @@ enum item {
 	note
 }
 
-inventory_[0] = "sword";
-inventory_[1] = "potion";
-inventory_[2] = "spell";
-inventory_[3] = "note";
+inventory_[item.sword] = "sword";
+inventory_[item.potion] = "potion";
+inventory_[item.spell] = "spell";
+inventory_[item.note] = "note";
 array_[0, 0] = 0; //2D array
 
 
