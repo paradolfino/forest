@@ -18,4 +18,4 @@ inventory_[item.note] = "note";
 array_[0, 0] = 0; //2D array
 
 
-show_message(inventory_[1]);
+show_message(inventory_[item.spell]);
