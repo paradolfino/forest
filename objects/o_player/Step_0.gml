@@ -15,7 +15,6 @@ if (_y_input != 0 && !place_meeting(x, y - dist_ * _y_input, o_solid)) {
 	y += dist_ * _y_input;
 	direction_facing_ = dir.up;
 	image_speed = _speed;
-	image_xscale = _y_input;
 }
 
 
