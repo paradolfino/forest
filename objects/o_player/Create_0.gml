@@ -10,4 +10,4 @@ inventory_[1, 0] = "magick spell";
 inventory_[1, 1] = "note";
 
 
-show_message(inventory_[0]);
+show_message(inventory_[0, 1]);
