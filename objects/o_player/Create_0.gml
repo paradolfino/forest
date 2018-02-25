@@ -1,7 +1,7 @@
 image_speed = 0;
 dist_ = 2; //instance var
 direction_facing_ = dir.right;
-
+direction_ = 0;
 global.player_health = 4; //global var
 
 //enum item {
