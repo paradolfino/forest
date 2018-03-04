@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "d505ab3a-2a93-4577-823e-15195d53307e",
+            "Value": {
+                "id": "b49a57f0-f261-4c25-8d23-7b66ec67cc91",
+                "resourcePath": "scripts\\apply_friction_to_movement_entity\\apply_friction_to_movement_entity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ddef85e5-8ba7-440f-95cf-faecd611b0fc",
             "Value": {
                 "id": "42cab25e-24a4-44eb-adb8-2e42a4fa8ea9",
@@ -274,6 +282,7 @@
     "script_order": [
         "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
         "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
+        "d505ab3a-2a93-4577-823e-15195d53307e",
         "54b52819-a293-48db-9872-df5f17648bf5"
     ],
     "tutorial": ""
