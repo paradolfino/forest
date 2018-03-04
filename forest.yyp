@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
+            "Value": {
+                "id": "17262d9a-6039-4a0b-8b20-ec8bb4caf6ca",
+                "resourcePath": "scripts\\add_movement_maxspeed\\add_movement_maxspeed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "d4dcf41d-0d09-401f-a16c-5fef8a628ca8",
@@ -265,6 +273,7 @@
     ],
     "script_order": [
         "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
+        "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
         "54b52819-a293-48db-9872-df5f17648bf5"
     ],
     "tutorial": ""
