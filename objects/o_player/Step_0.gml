@@ -15,6 +15,8 @@ if _x_input == 0 && _y_input == 0 {
 	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
 	if _x_input == -1 {
 		image_xscale = -1;	
+	} else {
+		
 	}
 }
 
