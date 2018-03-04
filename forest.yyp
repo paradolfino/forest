@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "54b52819-a293-48db-9872-df5f17648bf5",
+            "Value": {
+                "id": "393977f8-3096-4f79-b34d-e76f7f456dd1",
+                "resourcePath": "scripts\\say_hi\\say_hi.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5adfd27d-159a-4e43-81e4-2d2a5965258e",
             "Value": {
                 "id": "5bea2fa9-dddf-4ca3-a0d2-7250d35d3d56",
@@ -248,7 +256,7 @@
         }
     ],
     "script_order": [
-        
+        "54b52819-a293-48db-9872-df5f17648bf5"
     ],
     "tutorial": ""
 }
