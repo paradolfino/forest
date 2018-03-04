@@ -7,7 +7,7 @@ var _y_input = keyboard_check(vk_down) - keyboard_check(vk_up);
 var _input_direction = point_direction(0, 0, _x_input, _y_input);
 
 if _x_input == 00 && _y_input == 0 {
-	
+	image_index = 0;
 } else {
 	
 }
