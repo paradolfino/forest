@@ -1,4 +1,4 @@
-direction_facing_ = round(_input_direction/90);
+direction_facing_ = round(argument0/90);
 if direction_facing_ == 4 {
 	direction_facing_ = 0;
 }
