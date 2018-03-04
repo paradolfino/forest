@@ -11,7 +11,7 @@ if _x_input == 0 && _y_input == 0 {
 	apply_friction_to_movement_entity();
 } else {
 	get_direction_facing();
-	add_movement_maxspeed();
+	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
 }
 
 
