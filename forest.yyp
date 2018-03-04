@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
+            "Value": {
+                "id": "da78a144-dbf1-48bb-8de6-4baa21c44522",
+                "resourcePath": "scripts\\initialize_movement_entity\\initialize_movement_entity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5adfd27d-159a-4e43-81e4-2d2a5965258e",
             "Value": {
                 "id": "5bea2fa9-dddf-4ca3-a0d2-7250d35d3d56",
@@ -256,6 +264,7 @@
         }
     ],
     "script_order": [
+        "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
         "54b52819-a293-48db-9872-df5f17648bf5"
     ],
     "tutorial": ""
