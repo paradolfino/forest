@@ -10,7 +10,7 @@ if _x_input == 0 && _y_input == 0 {
 	image_index = 0;
 	apply_friction_to_movement_entity();
 } else {
-	get_direction_facing();
+	get_direction_facing(_input_direction);
 	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
 }
 
