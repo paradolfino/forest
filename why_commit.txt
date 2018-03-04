@@ -5,3 +5,4 @@
 18:00 - 18:19:pool[work with enums]
 18:00 - 18:32:pool[work on sprite lookup table for character]
 18:00 - 18:43:pool[work on axis input and simplify movement code]
+18:12 - 18:26:pool[working on axis input]
