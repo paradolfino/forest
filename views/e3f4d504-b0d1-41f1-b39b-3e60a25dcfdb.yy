@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMScript",
-    "folderName": "group0",
+    "folderName": "Movement Scripts",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
