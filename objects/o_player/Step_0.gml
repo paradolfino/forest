@@ -10,10 +10,11 @@ if _x_input == 0 && _y_input == 0 {
 	image_index = 0;
 	apply_friction_to_movement_entity();
 } else {
-	
+	get_direction_facing();
+	add_movement_maxspeed();
 }
 
-get_direction_facing();
+
 //if (_x_input != 0 && !place_meeting(x+dist_ * _x_input, y, o_solid)) {
 //	x += dist_ * _x_input;
 	
