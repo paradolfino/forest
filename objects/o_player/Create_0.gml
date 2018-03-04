@@ -1,4 +1,4 @@
-initilalize_movement_entity();
+initilalize_movement_entity(0.5, 1, o_solid);
 image_speed = 0;
 dist_ = 2; //instance var
 direction_facing_ = dir.right;
