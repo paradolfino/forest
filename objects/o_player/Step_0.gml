@@ -13,10 +13,8 @@ if _x_input == 0 && _y_input == 0 {
 	image_speed = 0.6;
 	get_direction_facing(_input_direction);
 	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
-	if _x_input == -1 {
-		image_xscale = -1;	
-	} else {
-		image_xscale = 1;	
+	if _x_input != 0 {
+		image_xscale = _x_input;	
 	}
 }
 
