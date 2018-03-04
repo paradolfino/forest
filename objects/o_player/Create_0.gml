@@ -1,6 +1,6 @@
 initilalize_movement_entity(0.5, 1, o_solid);
 image_speed = 0;
-dist_ = 2; //instance var
+acceleration_ = 2; //instance var
 direction_facing_ = dir.right;
 global.player_health = 4; //global var
 
