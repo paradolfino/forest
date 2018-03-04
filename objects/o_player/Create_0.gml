@@ -34,5 +34,5 @@ sprite_[player.move, dir.left] = s_player_run_right;
 sprite_[player.move, dir.down] = s_player_run_down;
 //sprite_index = sprite_[player.move, dir.right];
 
-
+say_hi();
 
