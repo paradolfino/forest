@@ -16,7 +16,7 @@ if _x_input == 0 && _y_input == 0 {
 	if _x_input == -1 {
 		image_xscale = -1;	
 	} else {
-		
+		image_xscale = 1;	
 	}
 }
 
