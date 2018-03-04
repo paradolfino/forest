@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2f57f718-6132-49d7-92b0-fad512ab57ec",
+            "Value": {
+                "id": "88d004c0-53ca-491c-af93-9ea54476a5f5",
+                "resourcePath": "scripts\\set_movement\\set_movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4b07eea5-f3ab-4ba1-ba4f-b4a786806583",
             "Value": {
                 "id": "1912dc08-5c76-494b-a0ff-cbe4ac8b7ed2",
@@ -292,6 +300,7 @@
         "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
         "d505ab3a-2a93-4577-823e-15195d53307e",
         "78deea04-4e4d-4d98-9d61-1e251feee640",
+        "2f57f718-6132-49d7-92b0-fad512ab57ec",
         "54b52819-a293-48db-9872-df5f17648bf5"
     ],
     "tutorial": ""
