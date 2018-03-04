@@ -7,3 +7,4 @@
 18:00 - 18:43:pool[work on axis input and simplify movement code]
 18:12 - 18:26:pool[working on axis input]
 18:12 - 18:33:pool[working with script importing]
+18:12 - 18:55:pool[axis movement with scripts]
