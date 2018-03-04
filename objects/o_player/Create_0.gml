@@ -1,4 +1,4 @@
-initilalize_movement_entity(0.5, 1, o_solid);
+initialize_movement_entity(0.5, 1, o_solid);
 image_speed = 0;
 acceleration_ = 0.5; //instance var
 max_speed_ = 1.5;
