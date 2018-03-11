@@ -2,7 +2,7 @@
     "id": "81aa774d-035d-468a-9d87-f9e28739887e",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "t_autotile",
+    "name": "t_dirtwall",
     "auto_tile_sets": [
         {
             "id": "85c75f40-27f8-4cb3-8e5b-2c8ba35ba35a",

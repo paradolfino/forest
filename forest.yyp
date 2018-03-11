@@ -194,7 +194,7 @@
             "Key": "81aa774d-035d-468a-9d87-f9e28739887e",
             "Value": {
                 "id": "96a0b1e2-dbfd-47e8-9784-be276fb5bc7b",
-                "resourcePath": "tilesets\\t_autotile\\t_autotile.yy",
+                "resourcePath": "tilesets\\t_dirtwall\\t_dirtwall.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -356,6 +356,14 @@
                 "id": "e61d9a0c-3d0d-4593-b8b8-0101b630a36e",
                 "resourcePath": "views\\fa6fcda2-2de3-4dc3-9945-9cbf7d074058.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fd77b079-daca-4cb9-bc09-05d53d0821f1",
+            "Value": {
+                "id": "85e76067-fa0f-40ed-8339-4aaa89b1da74",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
             }
         }
     ],
