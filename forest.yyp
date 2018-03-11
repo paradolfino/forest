@@ -362,7 +362,7 @@
             "Key": "fd77b079-daca-4cb9-bc09-05d53d0821f1",
             "Value": {
                 "id": "85e76067-fa0f-40ed-8339-4aaa89b1da74",
-                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourcePath": "tilesets\\t_dirtpath\\t_dirtpath.yy",
                 "resourceType": "GMTileSet"
             }
         }
