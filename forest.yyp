@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "ee359221-0d60-4d79-8bd5-c33a922b8ca0",
+            "Value": {
+                "id": "8b0c0030-8c6b-415f-b345-4ce8d02087de",
+                "resourcePath": "sprites\\s_grass_background\\s_grass_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "d4dcf41d-0d09-401f-a16c-5fef8a628ca8",

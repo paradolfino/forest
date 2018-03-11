@@ -2,7 +2,7 @@
     "id": "ee359221-0d60-4d79-8bd5-c33a922b8ca0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite4",
+    "name": "s_grass_background",
     "For3D": false,
     "HTile": false,
     "VTile": false,
