@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "44d9d0e2-65d1-428a-86cd-00692be793ba",
+            "Value": {
+                "id": "c7106616-789b-437c-a109-a857982fec88",
+                "resourcePath": "sprites\\s_dirt_wall_tileset\\s_dirt_wall_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b07eea5-f3ab-4ba1-ba4f-b4a786806583",
             "Value": {
                 "id": "1912dc08-5c76-494b-a0ff-cbe4ac8b7ed2",

@@ -2,7 +2,7 @@
     "id": "44d9d0e2-65d1-428a-86cd-00692be793ba",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite5",
+    "name": "s_dirt_wall_tileset",
     "For3D": false,
     "HTile": false,
     "VTile": false,
