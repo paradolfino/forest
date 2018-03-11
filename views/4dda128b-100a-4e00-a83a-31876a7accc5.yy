@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMSprite",
-    "folderName": "group0",
+    "folderName": "world",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
