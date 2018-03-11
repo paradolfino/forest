@@ -7,7 +7,7 @@
         
     ],
     "filterType": "GMSprite",
-    "folderName": "group0",
+    "folderName": "player",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
