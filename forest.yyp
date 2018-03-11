@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "914cd2bb-b813-422f-9910-96955cf029be",
+            "Value": {
+                "id": "0c013f03-79cf-4e03-b30a-ef31f895fb74",
+                "resourcePath": "sprites\\s_dirt_path_tileset\\s_dirt_path_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e9a717e-a630-48e1-8c57-b7f7c59ee0a3",
             "Value": {
                 "id": "3e309834-792c-49a6-acd7-0a45fc9d13d0",
