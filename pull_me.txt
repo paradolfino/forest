@@ -1,7 +1,1 @@
 
-[work on axis movement and importing scripts]
-### 03/03/2018[18:12 - 18:55]:
-* working on axis input
-* working with script importing
-* axis movement with scripts
-
