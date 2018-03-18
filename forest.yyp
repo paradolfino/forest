@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "4bc96397-f93a-4a66-90ea-8e4eecc39f12",
+            "Value": {
+                "id": "f0bedbec-76c7-40c3-8f98-268f86420742",
+                "resourcePath": "sprites\\s_player_attack_right\\s_player_attack_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4dda128b-100a-4e00-a83a-31876a7accc5",
             "Value": {
                 "id": "8c291b20-bb2a-439c-b23a-0ff220c487ae",

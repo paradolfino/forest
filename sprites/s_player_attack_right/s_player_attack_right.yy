@@ -2,7 +2,7 @@
     "id": "4bc96397-f93a-4a66-90ea-8e4eecc39f12",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite9",
+    "name": "s_player_attack_right",
     "For3D": false,
     "HTile": false,
     "VTile": false,
