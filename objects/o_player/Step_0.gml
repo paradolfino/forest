@@ -32,6 +32,11 @@ if _x_input == 0 && _y_input == 0 {
 //	image_speed = _speed;
 //}
 
+if _attack_input == true {
+	action_ = player.sword;
+	
+}
+
 
 sprite_index = sprite_[action_, direction_facing_];
 move_movement_entity(false);
