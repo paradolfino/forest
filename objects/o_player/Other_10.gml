@@ -39,5 +39,5 @@ if _attack_input == true {
 }
 
 
-sprite_index = sprite_[action_, direction_facing_];
+
 move_movement_entity(false);
