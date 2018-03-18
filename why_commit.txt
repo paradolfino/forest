@@ -9,3 +9,5 @@
 18:12 - 18:33:pool[working with script importing]
 18:12 - 18:55:pool[axis movement with scripts]
 17:51 - 18:09:pool[autotiling]
+18:26 - 18:36:pool[layers]
+18:36 - 18:57:pool[begin implement finite state machines]
