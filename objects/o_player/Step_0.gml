@@ -1,0 +1,1 @@
+sprite_index = sprite_[action_, direction_facing_];
