@@ -34,7 +34,7 @@ if _x_input == 0 && _y_input == 0 {
 //}
 
 if _attack_input == true {
-	
+	image_index = 0;
 }
 
 
