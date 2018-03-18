@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1bae727e-3a8c-40c1-9ddb-b5ee69536ac5",
+            "Value": {
+                "id": "73a70922-c221-45ec-9f90-3c3f4f58e33b",
+                "resourcePath": "sprites\\s_player_attack_down\\s_player_attack_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c22d339-8b97-4bb4-8138-7942d3d39568",
             "Value": {
                 "id": "e12399f3-50eb-45da-ab8a-b95a029a4a23",

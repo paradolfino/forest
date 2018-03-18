@@ -2,7 +2,7 @@
     "id": "1bae727e-3a8c-40c1-9ddb-b5ee69536ac5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite7",
+    "name": "s_player_attack_down",
     "For3D": false,
     "HTile": false,
     "VTile": false,
