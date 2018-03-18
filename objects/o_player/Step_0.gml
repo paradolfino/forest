@@ -1,1 +1,1 @@
-sprite_index = sprite_[action_, direction_facing_];
+sprite_index = sprite_[state_, direction_facing_];
