@@ -33,5 +33,5 @@ if _x_input == 0 && _y_input == 0 {
 //}
 
 
-sprite_index = sprite_[player.move, direction_facing_];
+sprite_index = sprite_[action_, direction_facing_];
 move_movement_entity(false);
