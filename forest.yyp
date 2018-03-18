@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2cb47700-3dc3-44e5-aa86-e96e61c80e28",
+            "Value": {
+                "id": "85a2d8ae-cacb-43d0-ad33-35ea94733288",
+                "resourcePath": "sprites\\s_player_attack_up\\s_player_attack_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2e3b467b-b520-4700-8f4f-fe1fac3d3fbe",
             "Value": {
                 "id": "7674ff43-335f-4125-9277-5225726a13f0",

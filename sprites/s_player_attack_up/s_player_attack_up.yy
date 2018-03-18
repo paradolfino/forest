@@ -2,7 +2,7 @@
     "id": "2cb47700-3dc3-44e5-aa86-e96e61c80e28",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite8",
+    "name": "s_player_attack_up",
     "For3D": false,
     "HTile": false,
     "VTile": false,
