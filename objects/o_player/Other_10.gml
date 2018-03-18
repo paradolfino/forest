@@ -1,4 +1,4 @@
-// @description: move state
+// @description move state
 
 
 image_speed = 0;
