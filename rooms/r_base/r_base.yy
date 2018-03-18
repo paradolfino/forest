@@ -44,13 +44,54 @@
             "visible": true
         },
         {
+            "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Dirtwalls",
+            "id": "00b69e7a-bb4f-4ea0-b038-12f6254feb2f",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRTileLayer",
+            "prev_tileheight": 32,
+            "prev_tilewidth": 32,
+            "mvc": "1.0",
+            "tiles": {
+                "SerialiseData": null,
+                "SerialiseHeight": 6,
+                "SerialiseWidth": 10,
+                "TileSerialiseData": [
+                    6,1,1,1,1,1,1,3,4,13,
+                    15,14,5,1,10,5,1,1,1,12,
+                    2147483648,2147483648,6,1,3,2,1,1,1,12,
+                    2147483648,2147483648,6,1,1,1,1,1,1,3,
+                    2147483648,2147483648,15,5,1,1,1,1,1,1,
+                    2147483648,2147483648,2147483648,15,14,14,5,1,10,14
+                ]
+            },
+            "tilesetId": "81aa774d-035d-468a-9d87-f9e28739887e",
+            "userdefined_depth": false,
+            "visible": true,
+            "x": 0,
+            "y": 0
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "e2c5574e-69cc-49cb-912c-6e15182cebca",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
