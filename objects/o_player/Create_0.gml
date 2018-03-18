@@ -29,6 +29,8 @@ enum dir {
 	left,
 	down
 }
+
+action_ = player.move;
 //Sprite Lookup Table
 sprite_[player.move, dir.right] = s_player_run_right;
 sprite_[player.move, dir.up] = s_player_run_up;
