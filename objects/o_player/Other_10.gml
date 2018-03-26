@@ -39,6 +39,11 @@ if _attack_input == true {
 	state_ = player.sword;
 }
 
+if _roll_input == true {
+	image_index = 0;
+	state_ = player.roll;
+}
+
 
 
 move_movement_entity(false);
