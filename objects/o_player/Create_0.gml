@@ -20,7 +20,8 @@ global.player_health = 4; //global var
 //show_message(inventory_[item.spell]);
 enum player {
 	move,
-	sword
+	sword,
+	roll
 }
 
 enum dir {
