@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "d4d719b9-6b3f-4045-ba57-775d79c25656",
+            "Value": {
+                "id": "2987f3a8-0566-4e08-b209-a6e0e5d5fd6b",
+                "resourcePath": "sprites\\s_player_roll_up\\s_player_roll_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d505ab3a-2a93-4577-823e-15195d53307e",
             "Value": {
                 "id": "b49a57f0-f261-4c25-8d23-7b66ec67cc91",
