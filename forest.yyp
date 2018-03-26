@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "18adcc29-87d4-4ba5-80b3-0d6d40992695",
+            "Value": {
+                "id": "4c8bcd28-78bf-44b1-a027-c1b0a3537ceb",
+                "resourcePath": "sprites\\s_player_roll_down\\s_player_roll_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1bae727e-3a8c-40c1-9ddb-b5ee69536ac5",
             "Value": {
                 "id": "73a70922-c221-45ec-9f90-3c3f4f58e33b",
