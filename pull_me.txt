@@ -1,1 +1,5 @@
 
+[implement roll/evade state]
+### 25/03/2018[19:32 - 19:58]:
+* roll/evade state
+
