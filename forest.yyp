@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "18adcc29-87d4-4ba5-80b3-0d6d40992695",
+            "Value": {
+                "id": "4c8bcd28-78bf-44b1-a027-c1b0a3537ceb",
+                "resourcePath": "sprites\\s_player_roll_down\\s_player_roll_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1bae727e-3a8c-40c1-9ddb-b5ee69536ac5",
             "Value": {
                 "id": "73a70922-c221-45ec-9f90-3c3f4f58e33b",
@@ -183,11 +191,27 @@
             }
         },
         {
+            "Key": "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
+            "Value": {
+                "id": "d237d35c-67e9-420f-a599-3a49ed2ce373",
+                "resourcePath": "scripts\\animation_hit_frame\\animation_hit_frame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "607e4da9-727b-4d0f-b286-1b2b23b7444d",
             "Value": {
                 "id": "27cda748-566e-48e6-95f2-ab1230793efd",
                 "resourcePath": "views\\607e4da9-727b-4d0f-b286-1b2b23b7444d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70b77b70-0b28-4770-bc53-3e7c4ff2d4e5",
+            "Value": {
+                "id": "77b3a76e-aae1-42e1-9233-de89d051da4a",
+                "resourcePath": "sprites\\s_player_roll_right\\s_player_roll_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +327,14 @@
             }
         },
         {
+            "Key": "d4d719b9-6b3f-4045-ba57-775d79c25656",
+            "Value": {
+                "id": "2987f3a8-0566-4e08-b209-a6e0e5d5fd6b",
+                "resourcePath": "sprites\\s_player_roll_up\\s_player_roll_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d505ab3a-2a93-4577-823e-15195d53307e",
             "Value": {
                 "id": "b49a57f0-f261-4c25-8d23-7b66ec67cc91",
@@ -399,7 +431,8 @@
         "2f57f718-6132-49d7-92b0-fad512ab57ec",
         "2fcb7a06-249c-44f2-9d09-ad5d36f99444",
         "ebf15ea5-c04a-4d97-898c-67939e14494a",
-        "54b52819-a293-48db-9872-df5f17648bf5"
+        "54b52819-a293-48db-9872-df5f17648bf5",
+        "5f392e65-4e33-42c9-b911-25f97d4ea2ed"
     ],
     "tutorial": ""
 }
