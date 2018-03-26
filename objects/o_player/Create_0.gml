@@ -3,6 +3,7 @@ image_speed = 0;
 acceleration_ = 0.5; //instance var
 max_speed_ = 1.5;
 direction_facing_ = dir.right;
+roll_direction_ = dir.right;
 global.player_health = 4; //global var
 
 //enum item {
