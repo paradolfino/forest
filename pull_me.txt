@@ -1,5 +1,1 @@
 
-[create layers for tilesets and begin implementation of a state machine]
-### 18/03/2018[18:36 - 18:57]:
-* begin implement finite state machines
-
