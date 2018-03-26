@@ -46,4 +46,7 @@ sprite_[player.sword, dir.left] = s_player_attack_right;
 sprite_[player.sword, dir.down] = s_player_attack_down;
 
 //roll lookup table
-
+sprite_[player.roll, dir.right] = s_player_roll_right;
+sprite_[player.roll, dir.up] = s_player_roll_up;
+sprite_[player.roll, dir.left] = s_player_roll_right;
+sprite_[player.roll, dir.down] = s_player_roll_down;
