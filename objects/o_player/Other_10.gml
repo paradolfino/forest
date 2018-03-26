@@ -20,6 +20,7 @@ if _x_input == 0 && _y_input == 0 {
 	if _x_input != 0 {
 		image_xscale = _x_input;	
 	}
+	roll_direction_ = direction_facing_ * 90;
 }
 
 
