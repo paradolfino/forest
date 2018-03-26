@@ -2,6 +2,7 @@ initialize_movement_entity(0.5, 1, o_solid);
 image_speed = 0;
 acceleration_ = 0.5; //instance var
 max_speed_ = 1.5;
+roll_speed = 2;
 direction_facing_ = dir.right;
 roll_direction_ = 0;
 global.player_health = 4; //global var
