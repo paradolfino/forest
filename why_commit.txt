@@ -11,3 +11,4 @@
 17:51 - 18:09:pool[autotiling]
 18:26 - 18:36:pool[layers]
 18:36 - 18:57:pool[begin implement finite state machines]
+19:22 - 19:32:pool[work on animation scripts]
