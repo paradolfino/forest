@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "70b77b70-0b28-4770-bc53-3e7c4ff2d4e5",
+            "Value": {
+                "id": "77b3a76e-aae1-42e1-9233-de89d051da4a",
+                "resourcePath": "sprites\\s_player_roll_right\\s_player_roll_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "71fbc35b-7f47-493f-96f3-d48fbb478bf6",
             "Value": {
                 "id": "d32d274e-3964-452b-bc35-c2564a76f32c",
